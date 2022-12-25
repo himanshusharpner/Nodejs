@@ -1,0 +1,21 @@
+{
+  "name": "node-first-app",
+  "version": "1.0.0",
+  "description": "Complete node js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node apps.js",
+    "start-server": "node apps.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/himanshusharpner/Nodejs.git"
+  },
+  "author": "Himanshu Ravi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/himanshusharpner/Nodejs/issues"
+  },
+  "homepage": "https://github.com/himanshusharpner/Nodejs#readme"
+}
